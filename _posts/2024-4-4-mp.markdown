@@ -1,0 +1,13 @@
+---
+layout:        post
+title:         "test"
+author:        "Bill"
+header-style:  text
+catalog:       true
+tags:
+  - Web
+  - JavaScript
+---
+
+test posts
+<a name="G7MHR"></a>
